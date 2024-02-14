@@ -1,7 +1,7 @@
 %% Z_Compression_Direct_Ellipse_Fitting
 % Detect the edge of a bead in xz view
 % Ellipse fitting on the edge
-% Last edited by Siyang Cheng 2024/02/01
+% Author: Siyang Cheng 2024/02/01
 
 clear
 close all 
